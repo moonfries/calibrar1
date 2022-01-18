@@ -1,0 +1,6 @@
+framework module Pods_Calibrar1_Calibrar1UITests {
+  umbrella header "Pods-Calibrar1-Calibrar1UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
